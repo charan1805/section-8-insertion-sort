@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\bin\Debug\Insertion Sort.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\bin\Debug\Insertion Sort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\bin\Debug\Insertion Sort.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\obj\Debug\Insertion Sort.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\obj\Debug\Insertion Sort.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\obj\Debug\Insertion Sort.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\obj\Debug\Insertion Sort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\Insertion Sort\obj\Debug\Insertion Sort.pdb
